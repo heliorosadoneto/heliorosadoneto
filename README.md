@@ -21,6 +21,7 @@
   <a href = "heliorosadoneto20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/helio-rosado-1b1802168/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+#WHATSAPP = (33) 98464-8003
 <div><br>
 	<h3>Projetos</h3><br>
 	<a href="https://github.com/heliorosadoneto/Barbearia-Alura">Barbearia Alura</a><br>
