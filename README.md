@@ -25,5 +25,5 @@
 	<h3>Projetos</h3><br>
 	<a href="https://github.com/heliorosadoneto/Barbearia-Alura">Barbearia Alura</a><br>
 	<a href="https://github.com/heliorosadoneto/Bytebanck">BYTEBANCK</a><br>
-	<a href="https://github.com/heliorosadoneto/oneburger">OneBurger</a><br> - Projeto vendido para cliente 
+	<a href="https://github.com/heliorosadoneto/oneburger">OneBurger</a> - Projeto vendido para cliente 
 </div>
