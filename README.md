@@ -2,7 +2,7 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helio-rosado-neto-1b1802168)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]([https://wa.me/seu-número](https://wa.me/553384154316))
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/MLGAHRGLUQ2OI1))
 
 
 Sou um entusiasta do desenvolvimento web e mobile, apaixonado por tecnologia e pelo impacto positivo que a programação pode gerar na vida das pessoas. Acredito no poder da educação contínua e na busca por inovação para criar soluções que transformem ideias em realidade. Minha jornada é guiada pela determinação e pela persistência, pois sei que são os pilares que impulsionam o crescimento e a superação de desafios. Estou sempre em busca de oportunidades para aprender, evoluir e contribuir com projetos que façam a diferença.
